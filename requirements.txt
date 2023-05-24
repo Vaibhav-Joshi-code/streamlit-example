@@ -1,2 +1,2 @@
 streamlit
-from pytube import YouTube
+pytube
